@@ -1,5 +1,7 @@
-# Simple Azure OpenAI Flashcard Generator Dependencies
+# High-Quality Anki Flashcard Generator Dependencies
+
+# Azure OpenAI SDK - Required for AI-powered card generation
 openai>=1.50.0,<2.0.0
 
-# Wikipedia library for fetching content from reputable sources
+# Wikipedia integration - Fetch content from Wikipedia articles
 wikipedia==1.4.0
